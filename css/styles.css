@@ -1,6 +1,17 @@
-.biker-zone-light-red{
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+
+/* Common Styles */
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Other Styles */
+.biker-zone-light-red {
     background-color: rgba(255, 0, 0, 0.274);
 }
-.rating-icon{
+
+.rating-icon {
     width: 20px;
 }
